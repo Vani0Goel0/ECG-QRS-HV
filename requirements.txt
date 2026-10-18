@@ -1,0 +1,10 @@
+wfdb
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+torch
+fastapi
+uvicorn
+streamlit

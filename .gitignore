@@ -1,0 +1,12 @@
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Local ECG Dataset Cache & Model Weights (Do not commit)
+mitdb_cache/
+*.pth
+*.npz
+*.npy
